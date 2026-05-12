@@ -1,0 +1,12 @@
+
+/*type selecters */
+
+p {color:rgb(78, 136, 136)}
+
+body {color:deeppink;
+font-family: "Victor Mono", cursive, sans-serif;}
+
+/* class selectors */
+/*c lass for my reading resposnses */
+
+.responses {font-family: "comic sans ms", cursive, sans-serif; color:purple;}
