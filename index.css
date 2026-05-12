@@ -1,12 +1,26 @@
 
 /*type selecters */
 
-p {color:rgb(78, 136, 136)}
+p {color:rgb(255, 0, 132)}
 
-body {color:deeppink;
+body {color:rgb(55, 255, 0);
 font-family: "Victor Mono", cursive, sans-serif;}
+body {
+  background-color: rgb(255, 234, 0);
+}
+
 
 /* class selectors */
 /*c lass for my reading resposnses */
 
-.responses {font-family: "comic sans ms", cursive, sans-serif; color:purple;}
+.responses {font-family: "Papyrus", cursive, sans-serif; color:rgb(255, 11, 255);}
+
+.LALALA {
+div 
+  width: 320px;
+  height: 50px;
+  padding: 10px;
+  border: 5px solid rgb(0, 0, 0);
+  margin: 10;
+}
+
