@@ -1,19 +1,19 @@
 
 /*type selecters */
 
-p {color:rgb(255, 0, 132)}
+p {color:rgb(62, 6, 35)}
 
-body {color:rgb(55, 255, 0);
+body {color:rgb(85, 14, 91);
 font-family: "Victor Mono", cursive, sans-serif;}
 body {
-  background-color: rgb(255, 234, 0);
+  background-color: rgb(169, 213, 222);
 }
 
 
 /* class selectors */
 /*c lass for my reading resposnses */
 
-.responses {font-family: "Papyrus", cursive, sans-serif; color:rgb(255, 11, 255);}
+.responses {font-family: "Papyrus", cursive, sans-serif; color:rgb(73, 12, 73);}
 
 .LALALA {
 div 
